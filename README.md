@@ -71,8 +71,4 @@ No | Designator                        | Item/Value    | Footprint     | Quantit
 33 |                                   | U.FL Connector|      SMT      | 1             |
 
 ## Desain
-
-### Top Layer
-<img src="images/top-layer.PNG" width="1000"> 
-
-### Bottom Layer
+Silakan lihat ![Github Pages](https://github.com/teguhprataman/thinkboard/tree/master/images)
