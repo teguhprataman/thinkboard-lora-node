@@ -23,7 +23,7 @@ ThinkBoard LoRa Node V1 merupakan development board berbasis mikrokontroler ESP3
 
 **•	Power :** AP2112K 3.3V LDO 600mA regulator, USB or battery operated Vin : 6.5V max / 5V typ. / 4.2V min
 
-**•	Battery Charger :** MCP7831 Single Cell Li-Ion, Li-Po battery charger
+**•	Battery Charger :** MCP73831 Single Cell Li-Ion, Li-Po battery charger
 
 **•	Connector :** USB Micro B, U.FL antenna connector
 
