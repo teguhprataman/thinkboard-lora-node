@@ -99,4 +99,9 @@ Adapun library depedency untuk example diatas :
 ## Galeri
 Lihat [galeri](https://github.com/teguhprataman/thinkboard/tree/master/images) untuk melihat gambar dari board ThinkBoard LoRa Node V1
 
-## License
+## Informasi
+
+Author : Teguh Pratama
+E-mail : teguhvnkn@gmail.com
+Website : thinkthings.id (offline)
+
