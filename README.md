@@ -71,7 +71,7 @@ No | Designator                        | Item/Value    | Footprint     | Quantit
 33 |                                   | U.FL Connector|      SMT      | 1             |
 
 ## Desain
-PCB ThinkBoard LoRa Node V1 merupakan hardware open-source yang di desain menggunakan software Altium Designer 20.1, namun terdapat juga file yang dapat dibuka menggunakan software freeware CircuitMaker.
+ThinkBoard LoRa Node V1 merupakan hardware open-source yang di desain menggunakan software Altium Designer 20.1, namun terdapat juga file yang dapat dibuka menggunakan software freeware CircuitMaker.
 
 Silakan gunakan design hardware ini dengan bijak.
 
