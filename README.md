@@ -71,4 +71,5 @@ No | Designator                        | Item/Value    | Footprint     | Quantit
 33 |                                   | U.FL Connector|      SMT      | 1             |
 
 ## Desain
-Silakan lihat [LINK](https://github.com/teguhprataman/thinkboard/tree/master/images) 
+Design PCB ThinkBoard LoRa Node V1 menggunaka software Altium Designer 20.1
+Silakan lihat [LINK](https://github.com/teguhprataman/thinkboard/tree/master/desain) 
