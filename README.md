@@ -29,7 +29,7 @@ ThinkBoard LoRa Node V1 merupakan development board berbasis mikrokontroler ESP3
 
 ## Pinout Diagram
 
-![](images/ThinkBoarD-LoRa-Node-Graphical-Pin-Diagram.png)
+![](images/ThinkBoard-LoRa-Node-Graphical-Pin-Diagram.png)
 ***Catatan :** GPIO 34-39 hanya dapat digunakan sebagai input
 
 ## BOMs (Bill of Materials)
