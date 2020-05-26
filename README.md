@@ -75,9 +75,9 @@ ThinkBoard LoRa Node V1 merupakan hardware open-source yang di desain menggunaka
 
 Silakan gunakan design hardware ini dengan bijak.
 
-File PCB Altium Designer, silakan lihat [LINK](https://github.com/teguhprataman/thinkboard/tree/master/desain/Altium-Designer) 
+File PCB Altium Designer, silakan lihat [Altium Designer](https://github.com/teguhprataman/thinkboard/tree/master/desain/Altium-Designer) 
 
-File PCB CircuitMaker, silakan lihat [LINK](https://circuitmaker.com/Projects/Details/TeguhPratama/ThinkBoard-LoRa-Node-V1-CircuitMaker/embeded)
+File PCB CircuitMaker, silakan lihat [CircuitMaker](https://circuitmaker.com/Projects/Details/TeguhPratama/ThinkBoard-LoRa-Node-V1-CircuitMaker/embeded)
 
 
 ## Example
