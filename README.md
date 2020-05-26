@@ -101,6 +101,10 @@ Lihat [galeri](https://github.com/teguhprataman/thinkboard/tree/master/images) u
 ## Informasi
 
 Author : Teguh Pratama
+
 E-mail : teguhvnkn@gmail.com
+
 Website : thinkthings.id (offline)
+
+
 
