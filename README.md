@@ -33,7 +33,7 @@ ThinkBoard LoRa Node V1 merupakan development board berbasis mikrokontroler ESP3
 
 ***Catatan :** GPIO 34-39 hanya dapat digunakan sebagai input
 
-## BOM's
+## BOMs (Bill of Materials)
 No | Designator                        | Item/Value    | Footprint     | Quantity
 -- | --------------------------------- | ------------- | ------------- | -------------
 1  |  C1, C2, C4, C7, C8, C11, C12, C13| 1µF           | Ceramic 0603  | 8             |
@@ -78,3 +78,22 @@ Silakan gunakan design hardware ini dengan bijak.
 File PCB Altium Designer, silakan lihat [LINK](https://github.com/teguhprataman/thinkboard/tree/master/desain/Altium-Designer) 
 
 File PCB CircuitMaker, silakan lihat [LINK](https://circuitmaker.com/Projects/Details/TeguhPratama/ThinkBoard-LoRa-Node-V1-CircuitMaker/embeded)
+
+
+## Example
+
+ThinkBoard LoRa Node V1 dapat diprogram menggunakan ArduinoIDE, dengan memilih ESP32 Dev Module pada bagian board di ArduinoIDE.
+
+Lihat [example](https://github.com/teguhprataman/thinkboard/tree/master/example) untuk contoh program
+
+Adapun library depedency untuk example diatas :
+
+**• BME280** https://github.com/adafruit/Adafruit_BME280_Library
+
+**• NeoPixel WS2812B** https://github.com/adafruit/Adafruit_NeoPixel
+
+**• LoRa P2P** https://github.com/sandeepmistry/arduino-LoRa
+
+**• LoRaWAN-Node** https://github.com/adafruit/TinyLoRa
+
+
