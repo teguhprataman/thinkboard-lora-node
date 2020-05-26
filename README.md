@@ -96,4 +96,7 @@ Adapun library depedency untuk example diatas :
 
 **• LoRaWAN-Node** https://github.com/adafruit/TinyLoRa
 
+## Galeri
+Lihat [galeri](https://github.com/teguhprataman/thinkboard/tree/master/images) untuk melihat gambar dari board ThinkBoard LoRa Node V1
 
+## License
