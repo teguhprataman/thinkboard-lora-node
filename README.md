@@ -98,7 +98,7 @@ Adapun library depedency untuk example diatas :
 ## Galeri
 Lihat [galeri](https://github.com/teguhprataman/thinkboard/tree/master/images) untuk melihat gambar dari board ThinkBoard LoRa Node V1
 
-<img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_1.JPG" width="270" <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_6.JPG" width="270"> <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_7.JPG" width="270"> 
+<img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_1.JPG" width="270"> <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_6.JPG" width="270"> <img src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/thinkboard_7.JPG" width="270"> 
 
 ## Informasi
 
