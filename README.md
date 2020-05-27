@@ -1,5 +1,37 @@
 # ThinkBoard LoRa Node V1
-Official board for thinkthings.id
+
+
+<p align="center">
+  <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkBoard-LoRa Node-Logo.png">
+</p>
+
+<p align="center">
+  <b>Official Development Board For ThinkThings.id</b>
+  <br> 
+</p>
+
+<p align="center">
+   <br> 
+  <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkThings-Logo%20.png">
+</p>
+
+
+Daftar Isi
+=================
+
+<!--ts-->
+   * [Daftar Isi](#daftar-isi)
+   * [Deskripsi](#deskripsi)
+   * [Spesifikasi](#spesifikasi)
+   * [Pinout Diagram](#pinout-diagram)
+   * [Bill Of Materials](#boms)
+   * [Desain](#desain)
+   * [Example](#example)
+   * [Galeri](#galeri)
+   * [Informasi](#informasi)
+   * [Lisensi](#lisensi)
+<!--te-->
+
 
 ## Deskripsi 
 ThinkBoard LoRa Node V1 merupakan development board berbasis mikrokontroler ESP32 yang dilengkapi dengan modul radio HopeRF LoRa RFM95W 915MHz, sensor BME280 dan RGB LED WS2812 yang terintegrasi. Development board ini dirancang untuk mendukung segala kebutuhan pengguna dalam proyek Internet of Things, dengan tersedianya berbagai konektivitas seperti Bluetooth Low Energy, Wi-Fi, dan LoRa membuat development board ini sangat fleksibel untuk digunakan pada berbagai jaringan.
@@ -32,7 +64,7 @@ ThinkBoard LoRa Node V1 merupakan development board berbasis mikrokontroler ESP3
 ![](images/ThinkBoard-LoRa-Node-Graphical-Pin-Diagram.png)
 ***Catatan :** GPIO 34-39 hanya dapat digunakan sebagai input
 
-## BOMs (Bill of Materials)
+## BOMs
 No | Designator                        | Item/Value    | Footprint     | Quantity
 -- | --------------------------------- | ------------- | ------------- | -------------
 1  |  C1, C2, C4, C7, C8, C11, C12, C13| 1µF           | Ceramic 0603  | 8             |
@@ -108,7 +140,7 @@ E-mail : teguhvnkn@gmail.com
 
 Website : thinkthings.id (offline)
 
-## License
+## Lisensi
 Desain hardware menggunakan lisensi  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Software menggunakan lisensi <a rel="license" href="https://www.gnu.org/licenses/lgpl-3.0.txt">GNU Lesser General Public License Version 3</a>.
