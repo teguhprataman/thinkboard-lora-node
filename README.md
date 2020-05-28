@@ -5,13 +5,16 @@
   <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkThings-Logo%20.png">
 </p>
 
+<br>
+
 <p align="center">
+  <br>
+  <br>
   <b>Official Development Board For ThinkThings.id</b>
   <br> 
 </p>
 
-<p align="center">
-   <br> 
+<p align="center"> 
   <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkBoard-LoRa Node-Logo.png">
 </p>
 
