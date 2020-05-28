@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkBoard-LoRa Node-Logo.png">
+  <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkThings-Logo%20.png">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
    <br> 
-  <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkThings-Logo%20.png">
+  <img width="400" src="https://github.com/teguhprataman/thinkboard-lora-node/blob/master/images/ThinkBoard-LoRa Node-Logo.png">
 </p>
 
 
