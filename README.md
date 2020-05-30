@@ -128,7 +128,7 @@ Adapun library depedency untuk example diatas :
 
 **• LoRa P2P** https://github.com/sandeepmistry/arduino-LoRa
 
-**• LoRaWAN-Node** https://github.com/adafruit/TinyLoRa
+**• LoRaWAN-Node** https://github.com/BeelanMX/Beelan-LoRaWAN
 
 ## Galeri
 Lihat [galeri](https://github.com/teguhprataman/thinkboard/tree/master/images) untuk melihat gambar dari board ThinkBoard LoRa Node V1
